@@ -5,7 +5,7 @@
   - Remaking my Portfolio site and making it with Next.js, TanStack Query, TypeScript, and MongoDB
   - A Next.js Threads Clone with Clerk Authentication, TypeScript, Tailwind,
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 
   - Next.js. I will be completing a course soon and will get a certificate of completion.
   - Clerk Authentication
