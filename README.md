@@ -9,7 +9,18 @@
 
   - Next.js. I will be completing a course soon and will get a certificate of completion.
   - Clerk Authentication
- 
+
+ Skills:
+
+- Front End: React.js, TypeScript, Tailwind CSS
+- Full Stack & Back End: Next.js, Node.js, Express.js
+- Forms & Data Validaiton: React-Hook-Form, Zod, Joi
+- APIs & Data Fetching: REST API's, API Development, TanStack Query, Postman, Axios
+- Version Control: Git, GitHub
+- Databases: MongoDB, mySQL, PostgreSQL
+- ORMs: Mongoose, Prisma
+- Authentication: Clerk, NextAuth
+- Deployment & Hosting: Vercel, Render, Hostinger, GitHub Pages
 
 <!--
 **mark-elias/mark-elias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
