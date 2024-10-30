@@ -22,6 +22,9 @@
 - Authentication: Clerk, NextAuth
 - Deployment & Hosting: Vercel, Render, Hostinger, GitHub Pages
 
+
+🤠 Hobbies: Watching sports 🏈, going to concerts 🎶, and playing the guitar 🎸
+
 <!--
 **mark-elias/mark-elias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
