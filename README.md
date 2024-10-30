@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on a Next.js Threads Clone with Clerk Authentication, TypeScript, Tailwind,
+- 🌱 I’m currently learning Next.js. I will be completing a course soon and will get a certificate of completion
+
 <!--
 **mark-elias/mark-elias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
