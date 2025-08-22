@@ -1,8 +1,5 @@
 Hello World
 
-I’m currently working on:
-  - 
-
 I’m currently learning:
   - AWS S3
   - Socket.io
