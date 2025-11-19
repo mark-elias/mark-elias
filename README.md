@@ -4,6 +4,7 @@ I'm a Lead Full Stack Developer based in San Diego, building scalable web applic
 
 🚀 Portfolio: https://marcoseliasportfolio.com/
 
+
 🛠️ Tech Stack
 Frontend:
 React • Next.js • TypeScript • Redux Toolkit • Material UI • Tailwind CSS • React-Hook-Form • Zod
@@ -28,6 +29,7 @@ AWS S3, AWS EC2
 
 Deployment & Hosting: Vercel, Render, Hostinger, GitHub Pages
 
+
 🎯 Featured Projects
 🌎 Easy Border (In Progress)
 Full-stack application for real-time border wait times with community-driven updates
@@ -47,6 +49,7 @@ Game discovery application with advanced filtering and search
 
 Tech: React, TypeScript, Chakra UI, RESTful APIs
 Custom hooks and efficient API integration
+
 
 🤠 When I'm Not Coding
 Watching sports 🏈 • Going to concerts 🎶 • Playing guitar 🎸
