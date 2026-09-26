@@ -1,8 +1,6 @@
 Hello World 🚀
 
-my flagship Fullstack project:
+my flagship fullstack project (EasyBorder) with AWS infra and CI/CD
 
-🚗 EasyBorder
-
-backend repo: https://github.com/mark-elias/easyborder-backend
-frontend repo: https://github.com/mark-elias/easyborder-frontend
+- backend repo: https://github.com/mark-elias/easyborder-backend
+- frontend repo: https://github.com/mark-elias/easyborder-frontend
